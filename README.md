@@ -1,3 +1,3 @@
 # TCP-simulation
-详情间report.pdf
+详情见report.pdf
 
